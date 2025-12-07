@@ -52,7 +52,7 @@ pip install flask pandas numpy scikit-learn imbalanced-learn lightgbm joblib
 
 4. Wait for training to complete
 
-You will see the model accuracy scores printed in the terminal. It will automatically select the best performing model (Random Forest or LightGBM).
+    You will see the model accuracy scores printed in the terminal. It will automatically select the best performing model (Random Forest or LightGBM).
 
 ```text
 Model Training Complete
@@ -90,11 +90,11 @@ Using Random Forest for predictions.
 
 •Personalized Suggestions:
 
-    •High Risk: Suggests therapy and urgent stress relief.
+    • High Risk: Suggests therapy and urgent stress relief.
 
-    •Moderate Risk: Suggests breathing exercises and mindfulness.
+    • Moderate Risk: Suggests breathing exercises and mindfulness.
 
-    •Lifestyle: Suggests sleep hygiene or physical activity improvements based on specific inputs
+    • Lifestyle: Suggests sleep hygiene or physical activity improvements based on specific inputs
 
 ## Project Contributors
 
